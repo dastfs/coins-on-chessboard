@@ -1,4 +1,4 @@
-# coins-on-chessboard
+# Coins on Chessboard
 My solution for the Coins and Chessboard Puzzle
 
 Puzzle description:
